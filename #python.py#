@@ -21,6 +21,3 @@ person_name = input("Enter your name: ");
 
 print("hello," + person_name);
 
-
-person_name2 = "Hello, " + input("What is your name");
-print(person_name2);
